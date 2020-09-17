@@ -1,7 +1,6 @@
 # hello_gleam
 
-A Gleam program
-
+A hello world in the Gleam programming language.
 
 ## Quick start
 
